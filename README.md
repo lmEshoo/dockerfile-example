@@ -1,1 +1,1 @@
-# docker-swarm-cicd-example
+# dockerfile-example
